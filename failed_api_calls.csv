@@ -1,0 +1,11 @@
+year,month,county,traceback
+2022,01,215,"Traceback (most recent call last):
+  File ""<ipython-input-41-661769e40d9a>"", line 31, in <module>
+    df_ = df_[12].iloc[:-1]
+IndexError: list index out of range
+"
+2022,06,307,"Traceback (most recent call last):
+  File ""<ipython-input-41-661769e40d9a>"", line 31, in <module>
+    df_ = df_[12].iloc[:-1]
+IndexError: list index out of range
+"
